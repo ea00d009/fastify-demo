@@ -34,7 +34,7 @@ fastify.register(require('fastify-static'), {
   prefix: '/public/',
 });
 
-// Challenge: NO SCHEMA????
+// Challenge: NO SCHEMA???
 // Please add a schema to validate the following properties from query string:
 //  - name
 //  - course (required)
